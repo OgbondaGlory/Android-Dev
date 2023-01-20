@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Qrapp</string>
+    <string name="btSignUp">SIGN UP</string>
+    <string name="btSignIn">SIGN IN</string>
+    <string name="username_email_address">Username/Email Address</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_your_password">Forgot Your Password?</string>
+    <string name="login_button">LOGIN</string>
+    <string name="lastname">Last Name</string>
+    <string name="firstname"> First Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="province">Province</string>
+    <string name="Address">Address</string>
+    <string name="emailaddress">E-mail Address</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="signup">Sign Up</string>
+
+
+</resources>
